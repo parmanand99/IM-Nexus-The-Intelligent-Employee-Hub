@@ -115,7 +115,8 @@ npm run dev
 
 ## ⚠️ Current Limitations
 - **Google Chat API**: This section is currently non-functional for personal `@gmail.com` accounts due to Google policy. It requires a Workspace (Enterprise/Education) account.
-- **Credentials**: For a demo `credentials.json`, please contact the development team.
+- **Credentials**: For a demo you will need `credentials.json` file and LLM key as an environment variable (ANTHROPIC_API_KEY), please contact the development team for help with the same.
+
 
 ---
 
